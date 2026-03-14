@@ -10,14 +10,17 @@ I analyze data using SQL and Python to uncover business insights, build dashboar
 ## Data Analytics Projects
 
 ### Sales Analytics Dashboard
-Analysis of retail sales data to identify regional trends, top products, and customer purchasing patterns.
+Analysis of retail sales data to identify regional trends, top-performing products, and customer purchasing behavior.
+[View Project](https://github.com/AxiosRose/Data-Analytic-Projects/tree/main/sales-analytics-dashboard)
+
 
 ### Customer Churn Analysis
 Predictive analytics project using Python and machine learning to identify factors influencing customer churn.
+[View Project](https://github.com/AxiosRose/Data-Analytic-Projects/tree/main/sales-analytics-dashboard)
 
 ### SQL Business Intelligence Dashboard
 SQL-based KPI reporting and visualization project analyzing revenue performance, customer value, and product demand.
-
+[View Project](https://github.com/AxiosRose/Data-Analytic-Projects/tree/main/sql-business-intelligence-dashboard)
 ---
 
 ## Skills
