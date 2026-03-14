@@ -1,16 +1,45 @@
-## Hi there 👋
+# Spencer Rosenberry
 
-<!--
-**AxiosRose/AxiosRose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science – Data Analytics  
+Army Veteran
 
-Here are some ideas to get you started:
+I analyze data using SQL and Python to uncover business insights, build dashboards, and support data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Data Analytics Projects
+
+### Sales Analytics Dashboard
+Analysis of retail sales data to identify regional trends, top products, and customer purchasing patterns.
+
+### Customer Churn Analysis
+Predictive analytics project using Python and machine learning to identify factors influencing customer churn.
+
+### SQL Business Intelligence Dashboard
+SQL-based KPI reporting and visualization project analyzing revenue performance, customer value, and product demand.
+
+---
+
+## Skills
+
+SQL  
+Python  
+Pandas  
+Matplotlib  
+Data Visualization  
+Business Intelligence  
+
+---
+
+## Tools
+
+Python  
+SQLite  
+Jupyter Notebook  
+GitHub  
+
+---
+
+## Contact
+
+LinkedIn: (add your LinkedIn later)
